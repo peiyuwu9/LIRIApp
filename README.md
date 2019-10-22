@@ -8,7 +8,7 @@ Create a engine to practice node.js.
 [Node.js] is used to retrieve data from APIs.
 
 # How to use
-1. Type in `node liri.js concert-this '<artist/band name here>'` in terminal to get concet information like below:
+1. Type in `node liri.js concert-this '<artist/band name here>'` in terminal to get concert information like below:
     ![Concert-This Example](https://github.com/peiyuwu9/Liri-node-App/blob/master/images/concert-this-example.png)
 
 
@@ -23,7 +23,7 @@ Create a engine to practice node.js.
     ![Do-What-It-Says Example 2](https://github.com/peiyuwu9/Liri-node-App/blob/master/images/do-what-it-says-2.png)
     ![Do-What-It-Says Example 3](https://github.com/peiyuwu9/Liri-node-App/blob/master/images/do-what-it-says-3.png)
 
-5. Bonus: Log commands run in terminal as below: 
+5. Bonus: Log commands run in terminal as below:\n 
     ![Log Example](https://github.com/peiyuwu9/Liri-node-App/blob/master/images/log-example.png)
 
 
