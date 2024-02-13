@@ -12,7 +12,6 @@ Create a app to practice Node.js.
 1. Type in `node liri.js concert-this '<artist/band name here>'` in terminal to get concert information like below:  
     ![Concert-This Example](https://github.com/peiyuwu9/Liri-node-App/blob/master/images/concert-this-example.png)
 
-
 2. Type in `node liri.js spotify-this-song '<song name here>'` in terminal to get music information like below:  
     ![Spotify-This-Song Example](https://github.com/peiyuwu9/Liri-node-App/blob/master/images/spotify-this-song-example.png)
 
@@ -26,5 +25,3 @@ Create a app to practice Node.js.
 
 5. Bonus: Log commands run in terminal as below:   
     ![Log Example](https://github.com/peiyuwu9/Liri-node-App/blob/master/images/log-example.png)
-
-
