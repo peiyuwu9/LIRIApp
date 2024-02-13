@@ -4,11 +4,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## Motivation
 Create a app to practice Node.js.
 
-## Technologies used and why
+## Technologies Used and Why
 **Javascript** is used to retrieve data from APIs.  
 **Node.js** is used to run Javascript.
 
-## How to use
+## How to Use
 1. Type in `node liri.js concert-this '<artist/band name here>'` in terminal to get concert information like below:  
     ![Concert-This Example](https://github.com/peiyuwu9/Liri-node-App/blob/master/images/concert-this-example.png)
 
