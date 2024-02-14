@@ -1,12 +1,12 @@
 # Liri Node App
-LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
 ## Motivation
-Create a app to practice Node.js
+Create a app to practice Node.js.
 
 ## Technologies Used and Why
-**Javascript** is used to retrieve data from APIs  
-**Node.js** is used to run Javascript
+**Javascript** is used to retrieve data from APIs.  
+**Node.js** is used to run Javascript.
 
 ## How to Use
 1. Type in `node liri.js concert-this '<artist/band name here>'` in terminal to get concert information like below:  
